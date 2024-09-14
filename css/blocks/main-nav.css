@@ -1,0 +1,14 @@
+.main-nav__list {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
+  gap: 29px;
+}
+
+.main-nav__link {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 20px;
+  color: #FFFFFF;
+}
