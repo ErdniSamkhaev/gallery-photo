@@ -1,0 +1,28 @@
+.gallery-photos__list {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: 365px 1fr 1fr;
+}
+
+.gallery-photos__figure {
+  margin: 0;
+}
+
+.gallery-photos__caption {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 15px;
+  text-align: right;
+  color: rgba(36, 36, 36, 0.5);
+}
+
+.gallery-photos__img {
+  margin: 0 0 5px;
+  border-radius: 8px;
+}
+
+.gallery-photos__item--large {
+  /* grid-column: span 2; */
+}
