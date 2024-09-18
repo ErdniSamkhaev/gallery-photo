@@ -2,14 +2,16 @@
   background: linear-gradient(180deg, #6e48db 0%, #9e5fc4 100%);
 }
 
+.header__wrapper {
+  padding: 15px 0;
+}
+
 .header__top {
   display: flex;
-  align-items: center;
   justify-content: space-between;
-  gap: 20px;
-  padding: 15px 0 0;
+  align-items: center;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
   margin: 0 0 15px;
-  border-bottom: 2px solid #ffffff33;
 }
 
 .header__list-info {
@@ -17,6 +19,7 @@
   margin: 0;
   list-style-type: none;
   display: flex;
+  flex-wrap: wrap;
   gap: 30px;
 }
 

@@ -21,3 +21,8 @@ a {
   color: #242424;
   text-decoration: none;
 }
+
+figure {
+  padding: 0;
+  margin: 0;
+}

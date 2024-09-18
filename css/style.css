@@ -14,5 +14,6 @@
 @import "blocks/header.css";
 @import "blocks/main-nav.css";
 @import "blocks/gallery.css";
-@import "blocks/gallery-photos.css";
 @import "blocks/gallery-nav.css";
+@import "blocks/btn.css";
+@import "blocks/aside-nav.css";
