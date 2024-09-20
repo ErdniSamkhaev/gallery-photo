@@ -3,7 +3,12 @@
   margin: 0;
   list-style-type: none;
   display: flex;
+  flex-wrap: wrap;
   gap: 29px;
+}
+
+.main-nav__item {
+  flex-grow: 1;
 }
 
 .main-nav__link {

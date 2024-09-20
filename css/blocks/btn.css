@@ -19,8 +19,8 @@
 }
 
 .btn--size-small {
-  width: 154px;
   background-color: #9e5fc4;
   border: 0;
   color: #ffffff;
+  padding: 14px 28px;
 }

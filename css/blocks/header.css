@@ -12,6 +12,7 @@
   align-items: center;
   border-bottom: 2px solid rgba(255, 255, 255, 0.2);
   margin: 0 0 15px;
+  padding: 0 0 15px;
 }
 
 .header__list-info {
@@ -21,10 +22,6 @@
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
-}
-
-.header__logo {
-  margin: 0 0 15px;
 }
 
 .header__link {
@@ -58,4 +55,5 @@
 .header__users-btn {
   background-color: transparent;
   border: none;
+  padding: 0;
 }
